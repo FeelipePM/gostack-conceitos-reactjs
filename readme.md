@@ -4,7 +4,8 @@
   Desafio: Conceitos de ReactJS
 </h3>
 
-<p align="center"><blockquote>“Aprendizado é um processo e você não vai ser um expert em uma semana.” by Diego Fernandes</blockquote>
+<p align="center">“Aprendizado é um processo e você não vai ser um expert em uma semana.” by Diego Fernandes
+</p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
